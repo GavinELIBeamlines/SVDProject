@@ -5,7 +5,7 @@ glob2==0.6
 seaborn==0.9.0
 h5py
 tifffile==2019.3.18
-opencv-python==4.0.0.21
+opencv-python==4.1.1.26
 scikit-learn==0.20.1
 scipy==1.1.0
 tensorly==0.4.5
